@@ -3,7 +3,7 @@
 A simple auth experience built with Next.js, TypeScript, and NextAuth. Users can sign up with role selection, verify their email via OTP, and sign in securely with client-side validation and token handling.
 
 ## Screenshots
-- Home: landing state showing logged-in user info and sign-out control.  
+- Home: landing state showing signin and signup buttons.  
 ![Home](./screenshots/home.png)
 - Signup: role-aware registration form with name, email, password, and confirm password plus validation messaging.  
 ![Signup](./screenshots/signup.png)
